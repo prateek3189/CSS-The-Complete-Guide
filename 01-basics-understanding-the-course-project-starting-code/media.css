@@ -1,0 +1,48 @@
+/* Tab */
+@media (min-width: 40rem) {
+  #product-overview {
+    height: 40vh;
+  }
+  #product-overview h1 {
+    font-size: 3rem;
+  }
+
+  .plan {
+    display: inline-block;
+    width: 30%;
+    margin: 8px;
+  }
+
+  .key-feature {
+    display: inline-block;
+    width: 30%;
+  }
+
+  .main-nav {
+    display: block;
+  }
+
+  .toggle-button {
+    display: none;
+  }
+
+  .testimonial:first-of-type {
+    margin-top: 96px;
+  }
+
+  .testimonial__image-container {
+    width: 75%;
+  }
+
+  .testimonial__info {
+    width: 20%;
+    text-align: right;
+  }
+
+  .signup-form {
+    margin: auto;
+    width: 25rem;
+  }
+  .main-header {
+  }
+}
